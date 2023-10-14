@@ -18,6 +18,3 @@ What sets me apart is not just my technical prowess, but also my dedication to e
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=arunkr741&theme=chalk&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=arunkr741&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
